@@ -50,7 +50,7 @@ def display_logos_in_row(folder_path):
 
 
 # Call the function in your Streamlit app
-logo_folder = 'logo'
+logo_folder = 'logos'
 
 def main():
     st.title("Logo Detection (Colour Images) with YOLOv11")
